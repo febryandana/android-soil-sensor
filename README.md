@@ -3,34 +3,30 @@
 ## Perangkat Deteksi Kesuburan Tanah dengan Aplikasi Android (draft)
 
 \
-**Rumusan masalah :**
+**System Design**
 
-- Bagaimana cara mendeteksi kesuburan tanah
-
-- Apa saja sensor untuk mendeteksi kesuburan tanah
-
-- Bagaimana menghubungkan sensor kesuburan tanah dengan mikrokontroler
-
-- Bagaimana menghubungkan mikrokontroler dengan aplikasi Android
-
-- Bagaimana menggunakan sensor GPS/Location smartphone Android untuk menyimpan lokasi terkini
-
-- Bagaimana cara membuat aplikasi Android untuk mendapatkan dan menyimpan data dari mikrokontroler dan sensor GPS smartphone
-
-\
-**Desain Sistem :**
-
-- Mikrokontroler
+- Microcontroller
   - Arduino Nano
 
 - Sensor
   - Ph Meter Sensor
   - Soil & Moisture Sensor
-  - GPS & Location
+  - GPS & Location Sensor
 
-- Aktuator
+- Actuator
   - Serial communication
   - LED
+  - Buzzer
 
-- Android
-  - Semua smartphone Android dengan fitur GPS, Location, dan dukungan USB On-The-Go
+- Smartphone
+  - Android smartphone with GPS, Location, and USB On-The-Go support
+
+**Images**  
+- Application Design
+- Hardware Design
+
+**Source Code Android Application**  
+on progress
+
+**Source Code Microcontroller**  
+on progress
