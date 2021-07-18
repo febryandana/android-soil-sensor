@@ -1,8 +1,7 @@
-# Proyek PKL KJFD
+# Proyek Praktik Kerja Lapangan
 
-## Perangkat Deteksi Kesuburan Tanah dengan Aplikasi Android (draft)
+## Soil Fertility Detection System
 
-\
 **System Design**
 
 - Microcontroller
@@ -19,7 +18,7 @@
   - Buzzer
 
 - Smartphone
-  - Android smartphone with GPS, Location, and USB On-The-Go support
+  - Android smartphone with support for GPS, Location, and USB On-The-Go
 
 **Images**  
 - Application Design
